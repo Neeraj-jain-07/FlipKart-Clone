@@ -1,0 +1,17 @@
+.flex-item-center{
+    display: flex; 
+    justify-content: center;
+    align-items:center;
+}
+
+.px-1{
+    padding:0px 19px;
+}
+
+.my-1{
+    margin:3px 0px;
+}
+
+.my-2{
+    margin: 7px 0px;
+}
